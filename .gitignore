@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+
+# 真实抓包含本机内网网关与私有会话 id，不入库；需要时跑一次 demo 自己生成
+acp-client-demo/trace-*.jsonl
+*.log
